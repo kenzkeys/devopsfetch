@@ -166,15 +166,5 @@ The script ensures that logs are properly rotated to prevent disk space issues. 
 
 Feel free to fork this repository and contribute by submitting pull requests. Any improvements or suggestions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- The `tabulate` library for formatting output.
-- Various online resources and communities for their invaluable support and knowledge sharing.
-
----
 
 With **DevOpsFetch**, system monitoring and information retrieval become straightforward and efficient, allowing DevOps professionals to focus on what truly matters—maintaining and improving system performance and reliability.
